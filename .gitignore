@@ -1,0 +1,5 @@
+client/voices/
+dataset/nu_itcs_rag_dataset_156.jsonl
+
+client/.env
+client/__pycache__/voice_service.cpython-311.pyc
